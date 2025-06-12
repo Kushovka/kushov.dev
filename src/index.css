@@ -139,7 +139,7 @@ section {
     filter: blur(200px);
   }
   .about-sphere-1 {
-    background: radial-gradient(circle, #ff28d5, #ff28d5);
+    background: radial-gradient(circle, #8a2be2, #8a2be2);
     bottom: 300px;
     right: 150px;
     animation: wander-left 10s ease-in-out infinite;

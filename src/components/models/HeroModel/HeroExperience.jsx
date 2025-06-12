@@ -7,7 +7,7 @@ const HeroExperience = () => {
   return (
     <Canvas>
       <ambientLight intensity={2} />
-      <directionalLight position={[-2, 0, 3]} intensity={3} color={"#ff28d5"} />
+      <directionalLight position={[-2, 0, 3]} intensity={3} color={"#8a2be2"} />
       <directionalLight position={[2, 0, 3]} intensity={3} color={"#1c34ff"} />
 
       <Sparkles
