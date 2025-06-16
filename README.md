@@ -1,4 +1,4 @@
-# 👉 **[kushov.dev](https://kushovdev.netlify.app/)**
+# 👉 **[kushov.dev](https://kushovdev.netlify.app/)** - React + Tailwind CSS + THREE js
 <br><br>
 
 <br><br>
